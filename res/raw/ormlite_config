@@ -1,0 +1,32 @@
+#
+# generated on 2014/09/26 11:00:24
+#
+# --table-start--
+dataClass=com.banqtech.ormlite.entity.People
+tableName=people
+# --table-fields-start--
+# --field-start--
+fieldName=id
+id=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --field-start--
+fieldName=apppassword
+# --field-end--
+# --field-start--
+fieldName=card
+# --field-end--
+# --field-start--
+fieldName=role
+# --field-end--
+# --field-start--
+fieldName=visible
+# --field-end--
+# --field-start--
+fieldName=image
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
